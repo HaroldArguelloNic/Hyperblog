@@ -2,3 +2,5 @@ Esta es el inicio de la historia con Git
 
 Soy Harold Arguello, Nicaraguense
 tengo 47 años
+
+Naci en Juigalpa, llevo 15 años trabajando en contabilidad.
