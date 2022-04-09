@@ -1,15 +1,16 @@
 body {
-    background-color: grey;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    color: #333;
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
-h1 {
-    color: pink;
-    
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
 }
-p {
-    color: lightblue;
-    
+#container h1 {
+    font-size: 20px;
 }
