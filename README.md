@@ -11,5 +11,6 @@ Este repositorio es la parte practica del curso de Git y Github impartido en pla
 * Las personalidades multiples de Freddy.
 * Creado por el increible platziteam.
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades.
 
 Y como un amable recordatorio: ** Este Readme.md** Fue diseñado para el ejemplo. Si llegas aca mejor ve [** a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
