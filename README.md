@@ -1,5 +1,5 @@
 # Hyperblog💚
-Un blog increible para el curso de Giy y Gihub de Platzi
+Un blog increible para el curso de Git y Github de Platzi
 
 Este repositorio es la parte practica del curso de Git y Github impartido en platzi.
 
